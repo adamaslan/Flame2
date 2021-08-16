@@ -103,11 +103,11 @@ export const WelcomeScreen: FC<StackScreenProps<NavigatorParamList, "welcome">> 
           <Text style={TITLE} preset="header" tx="welcomeScreen.readyForLaunch" />
           <Image source={bowserLogo} style={BOWSER} />
           <Text style={CONTENT}>
-            This probably isn't what your app is going to look like. Unless your designer handed you
+            Oh hiii...This probably isn't what your app is going to look like. Unless your designer handed you
             this screen and, in that case, congrats! You're ready to ship.
           </Text>
           <Text style={CONTENT}>
-            For everyone else, this is where you'll see a live preview of your fully functioning app
+            Suuuup! For everyone else, this is where you'll see a live preview of your fully functioning app
             using Ignite.
           </Text>
         </Screen>
